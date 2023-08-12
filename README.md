@@ -1,4 +1,3 @@
 - 👋 Am @OddSuvius
-- 🔗 https://www.youtube.com/channel/UChSYNoNEbWZpdgOniD6tNOQ
 - 🌱 Python, C, Java, GDscript, C# .net
 - 📫 just pm me

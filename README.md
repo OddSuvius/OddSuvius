@@ -1,4 +1,4 @@
 - 👋 Am @OddSuvius
 - 🌱 Python, C, Java, GDscript, C# .net (ts js html css)
-- 📫 just pm me
+- 📫 just pm me (discord: oddsuvius)
 - 🔗 Portfolio https://oddsuvius.github.io/
